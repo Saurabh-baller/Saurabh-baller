@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @Saurabh-baller
-- 👀 I’m interested in Coding and Sports
-- 🌱 I’m currently learning Mern Stack Technologies
-
+🌟 Hello, World! I'm a MERN Stack Developer 🚀 with 2 years of experience, specializing in front-end magic ✨. I love turning complex problems into simple, beautiful, and intuitive designs. My tech journey 🛤️ is fueled by my passion for crafting user-centric interfaces using MongoDB, Express, React, and Node.js. Check out my repos 📁 to see my adventures in coding, from snappy UIs to robust full-stack applications. Let's connect and build the future of web together! 💻🌐
